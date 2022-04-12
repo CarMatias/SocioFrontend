@@ -1,0 +1,33 @@
+.divf{
+    display: flex;
+    justify-content: center;
+}
+.fcs{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+
+    
+}
+.fics{
+    margin: 18px;
+    height: 30px;
+}
+.pfc{
+    display: flex;
+    justify-content: center;
+}
+.pfc1{
+    font-size: 14px;
+    margin: auto;
+}
+.fics1{
+    width: 130px;
+    margin: 18px 20px 18px -10px;
+    height: 30px;
+}
+.dirf{
+    display: flex;
+}
+

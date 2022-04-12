@@ -1,0 +1,31 @@
+.delete{
+    background-color: rgb(211, 8, 8);
+    border-radius: 7px;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.delete:hover{
+     cursor: pointer;
+     background-color: rgb(154, 37, 37);
+}
+.show-element {
+    /*duracion de la animacion, puedes variar el tiempo, entre mas grande mas tarda el efecto*/
+    animation-duration: 2s;
+    animation-fill-mode: both;
+    /*le indicas que animacion quieres aplicarle, animacion hecha por ti en un keyframe*/
+    animation-name: fadeIn;
+
+  }
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  

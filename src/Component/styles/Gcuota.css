@@ -1,0 +1,51 @@
+.formG{
+    width: 600px;
+    height: 400px;
+    padding: 100px;
+
+}
+
+.inputG{
+    width: 300px;
+    height: 40px;
+    border: 0;
+    font-size: 20px;
+    margin: 20px;
+}
+.textG{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.buttonG{
+    background-color: #4CAF50;
+    border-radius: 7px;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    font-size: 17px;
+}
+.buttonG:hover{
+    cursor: pointer;
+    background-color: #45a348;
+}
+
+.inputG:focus{
+    outline: 0;
+
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
+
+
+.buttonG{
+    height: 40px;
+}
+

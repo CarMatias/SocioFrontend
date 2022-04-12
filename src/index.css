@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('./Component/Icons/gb.jpg') no-repeat fixed;
+  background-position-x: 10%;
+
+
+  overflow-x: hidden;
+
 }
 
 code {

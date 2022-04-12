@@ -1,0 +1,19 @@
+.sod{
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+
+    width: auto;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.sd{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.check{
+    padding: 20px;
+    width: 50px;
+}
