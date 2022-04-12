@@ -14,4 +14,6 @@ Componente Generar Cuota: Ingreso del monto de cuota que generara una cuota para
 
 ![image](https://user-images.githubusercontent.com/50555331/163041593-70ea99ac-fbd4-4faa-a228-8f3ca2ecac7e.png)
 
-
+Componente Succes: Al eliminar y al cargar una cuota tendremos una pantalla de confirmacion de la operacion 
+![image](https://user-images.githubusercontent.com/50555331/163041907-e11ab4ce-3bb8-4c2f-b6e6-466f57be04b1.png)
+(Eliminar igual pero con texto correspondiente)
